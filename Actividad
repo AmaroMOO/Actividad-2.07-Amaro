@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mis Marcadores Favoritos</title>
+</head>
+<body>
+    <h1>Mis Marcadores Favoritos:</h1>
+
+    <div class="marcador">
+        <h2>BeSoccer</h2>
+        <a href="https://es.besoccer.com/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Logo_besoccer_th.png" alt="Logo de BeSoccer">
+        </a>
+    </div>
+
+    <div class="marcador">
+        <h2>YouTube</h2>
+        <a href="https://www.youtube.com" target="_blank">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8T54S2mPVLqXKh7VcLSoTDKPDT1r_f0e2xDPuGGRDAQ&s" alt="Logo Youtube">
+        </a>
+    </div>
+
+    <div class="marcador">
+        <h2>WebApp Fifa</h2>
+        <a href="https://www.ea.com/ea-sports-fc/ultimate-team/web-app/" target="_blank">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvBIYAyMKVu9Xsk8zpdcak-9onD0fRWdY3Ow&s" alt="Logo de Web App">
+        </a>
+    </div>
+
+    <div class="marcador">
+        <h2>GitHub</h2>
+        <a href="https://www.github.com" target="_blank">
+            <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Logo de GitHub">
+        </a>
+    </div>
+
+    <div class="marcador">
+        <h2>Fútbol Fantasy</h2>
+        <a href="https://www.futbolfantasy.com/" target="_blank">
+            <img src="https://img.asmedia.epimg.net/resizer/v2/AHIMRWACDNBKDHHO2W2V6KCAVE.jpg?auth=992768c257c5b28231153530dc31729ef3340b9bfacedc2360d4f6960b30e1ef&width=360&height=203&smart=true" alt="Logo de fútbol fantasy">
+        </a>
+    </div>
+</body>
+</html>
